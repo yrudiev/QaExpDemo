@@ -1,5 +1,5 @@
 *.dll
-**/obj
+*/obj/
 **/bin
 **/packages
 .vs/
